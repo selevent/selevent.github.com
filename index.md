@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-See You Soon!
+# See You Soon!
+
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -13,7 +13,6 @@ See You Soon!
   {% endfor %}
 </ul>
 
-## To-Do
 
 
 
