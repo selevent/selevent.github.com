@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Hello World"
-description: ""
-category: 
-tags: []
+description: "what is this"
+category: FUN
+tags: [Fun]
 ---
 {% include JB/setup %}
+
+## Awesowe
