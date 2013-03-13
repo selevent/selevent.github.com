@@ -7,4 +7,4 @@ tags: [Fun]
 ---
 {% include JB/setup %}
 
-## Awesowe
+## using markdown is awesome!
