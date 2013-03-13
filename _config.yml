@@ -10,10 +10,10 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 
-title : Selevent
+title : selevent
 tagline: Site Tagline
 author :
-  name : Alvin Zhan
+  name : selevent 
   email : janjangzhan@gmail.com
   github : selevent 
   weibo : alvinzhan
